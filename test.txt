@@ -1,9 +1,5 @@
 created
 wrong commit
-<<<<<<< HEAD
 wrong commit22
 wrong commit23
 
-=======
-wrong commit 2
->>>>>>> parent of 26a968b... Revert "Wrong commit 2"
